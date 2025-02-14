@@ -1,5 +1,3 @@
-![1](https://github.com/user-attachments/assets/06d1f810-0d90-4401-9519-cca9f6f54278)# GL Launcher
-
 **GL Launcher** is a powerful and lightweight Minecraft launcher designed for modpacks and multiplayer servers. Created by **SHELDERSION** and **YABO**, this launcher enhances the Minecraft experience with a smooth and user-friendly interface.
 
 ## Features
