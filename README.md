@@ -39,5 +39,5 @@ We welcome contributions! Feel free to submit issues, feature requests, or pull 
 
 ✨ **Made with passion by SHELDERSION & YABO** ✨
 
-[GL Launcher Support & FAQ]([https://discord.gg/XA8sCnQ66U](https://docs.google.com/document/d/1iRUVW2KG2H2qrK3KR1hGb1KLq5-dupy3VH_LBUQgKNg/edit?usp=sharing)) 
+[GL Launcher Support & FAQ]([https://discord.gg/XA8sCnQ66U](https://docs.google.com/document/d/1iRUVW2KG2H2qrK3KR1hGb1KLq5-dupy3VH_LBUQgKNg/edit?usp=sharing)
 
