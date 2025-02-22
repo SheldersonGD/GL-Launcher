@@ -10,7 +10,7 @@
 
 ## Download
 
-🚀 **[Download GL Launcher](#)** *(Coming Soon!)*
+🚀 **[Download GL Launcher]([#](https://github.com/SheldersonGD/GL-Launcher/releases))**
 
 ## Installation Guide
 
